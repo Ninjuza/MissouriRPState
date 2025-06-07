@@ -58,3 +58,10 @@ footer {
   background: #1e1e1e;
   font-size: 0.9em;
 }
+.logo {
+  width: 120px;
+  height: auto;
+  display: block;
+  margin: 0 auto 20px auto;
+}
+
